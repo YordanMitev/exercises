@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9cc1f361-ae24-46a6-8124-2e93ace103c5" name="Default Changelist" comment="" />
+    <list default="true" id="9cc1f361-ae24-46a6-8124-2e93ace103c5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../masterfu/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../masterfu/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../masterfu/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../masterfu/.idea/libraries/junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../masterfu/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../masterfu/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../masterfu/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../masterfu/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../masterfu/lib/hamcrest-core-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../masterfu/lib/junit-4.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../masterfu/masterfu.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../masterfu/out/production/masterfu/META-INF/masterfu.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../masterfu/out/production/masterfu/a/Warrior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../masterfu/out/production/masterfu/a/WarriorRanks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../masterfu/out/production/masterfu/b/Warrior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../masterfu/out/production/masterfu/c/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../masterfu/out/production/masterfu/c/Warrior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../masterfu/out/production/masterfu/homework5/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../masterfu/out/production/masterfu/homework5/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../masterfu/out/production/masterfu/homework5/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../masterfu/out/production/masterfu/homework5/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../masterfu/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../masterfu/src/main/java/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../masterfu/src/main/java/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../masterfu/src/main/java/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../masterfu/src/main/java/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../masterfu/src/main/java/a/Warrior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../masterfu/src/main/java/a/WarriorRanks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../masterfu/src/main/java/b/Warrior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../masterfu/src/main/java/c/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../masterfu/src/main/java/c/Warrior.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,12 +43,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
@@ -29,7 +60,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/homework5/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -47,12 +78,12 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/homework5/Person.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
-              <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/homework5/Student.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
@@ -69,6 +100,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -104,56 +138,51 @@
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="masterfu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="masterfu" type="462c0819:PsiDirectoryNode" />
+              <item name="ex4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ex4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="masterfu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="masterfu" type="462c0819:PsiDirectoryNode" />
+              <item name="ex4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ex4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="masterfu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="masterfu" type="462c0819:PsiDirectoryNode" />
+              <item name="ex4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ex4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="masterfu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="masterfu" type="462c0819:PsiDirectoryNode" />
+              <item name="ex4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ex4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="masterfu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="masterfu" type="462c0819:PsiDirectoryNode" />
+              <item name="ex4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ex4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="homework5" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="masterfu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="masterfu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -162,7 +191,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557593423109" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../homework5selenium" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -245,7 +274,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25167784" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25503355" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -336,7 +365,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/homework5/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
@@ -350,14 +379,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/homework5/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
-          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -365,6 +387,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
         </state>
       </provider>
     </entry>
